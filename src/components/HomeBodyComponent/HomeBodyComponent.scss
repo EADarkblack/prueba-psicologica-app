@@ -1,0 +1,35 @@
+.home-body-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cff7f0;
+
+  .home-body-subcontainer {
+    max-width: 1024px;
+    height: 98vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10%;
+    .terms-and-conditions-container {
+      border: 1px solid #ffffff;
+      border-radius: 1rem;
+      padding: 2rem 3rem;
+      background-color: #ffffff;
+      z-index: 1;
+    }
+    .terms-and-conditions-text-container {
+      background-color: #ffffff;
+      border: 1px solid gray;
+      border-radius: 1rem;
+      max-height: 30rem;
+      overflow-x: hidden;
+      overflow-y: scroll;
+    }
+    .terms-and-conditions-content {
+      background-color: transparent;
+    }
+  }
+}
