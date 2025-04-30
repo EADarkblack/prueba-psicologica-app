@@ -8,6 +8,8 @@ import "./FormBodyComponent.css";
 const FormBodyComponent = () => {
   const history = useNavigate();
 
+  const [disableButton, setDisableButton] = useState(false);
+
   const [formData, setFormData] = useState({
     name: "",
     last_name: "",
@@ -72,6 +74,8 @@ const FormBodyComponent = () => {
 
     if (Object.keys(newErrors).length === 0) {
       try {
+        setDisableButton(true);
+
         const response = await fetch(
           "https://prueba-psicologica-api.onrender.com/api/user",
           {
@@ -87,6 +91,7 @@ const FormBodyComponent = () => {
 
         switch (result?.status) {
           case 200:
+            setDisableButton(false);
             history("/cuestionario");
 
             break;
@@ -189,8 +194,8 @@ const FormBodyComponent = () => {
               error={Boolean(errors.email)}
               helperText={errors.email}
             />
-            <Button type="submit" variant="contained">
-              Enviar
+            <Button disabled={disableButton} type="submit" variant="contained">
+              {disableButton ? "Enviando..." : "Enviar"}
             </Button>
           </div>
         </form>

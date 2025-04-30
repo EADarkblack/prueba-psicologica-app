@@ -1,0 +1,972 @@
+{
+  "data": [
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_1",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido cansado(a) sin ninguna razón?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_2",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido nervioso(a)?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_3",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido tan nervioso(a) que nada podía calmarlo(a)?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_4",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido sin esperanza?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_5",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido inquieto(a) o intranquilo(a)?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_6",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido tan inquieto(a) que no podía permanecer sentado(a)?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_7",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido deprimido(a)?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_8",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido tan deprimido(a) que nada podía levantarle el ánimo?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_9",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido que todo le costaba mucho esfuerzo?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Kessler Psychological Distress Scale",
+      "name": "k10_question_10",
+      "description": "En los últimos 30 días ¿con qué frecuencia se ha sentido inútil?",
+      "radio_label": "En una escala del 1 al 5, donde: (1 - Todo el tiempo), (2 - La mayor parte del tiempo), (3 - Algunas veces), (4 - Casi nunca), (5 - Nunca).",
+      "options": [
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "World Health Organization-Five Well-Being Index",
+      "name": "who5_question_1",
+      "description": "Me he sentido animado y de buen humor",
+      "radio_label": "En una escala del 0 al 5, donde: (0 - Nunca), (1 - Algunas veces), (2 - Menos de la mitad del tiempo), (3 - Mas de la mitad del tiempo), (4 - Casi todo el tiempo), (5 - Todo el tiempo).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "World Health Organization-Five Well-Being Index",
+      "name": "who5_question_2",
+      "description": "Me he sentido calmado y relajado",
+      "radio_label": "En una escala del 0 al 5, donde: (0 - Nunca), (1 - Algunas veces), (2 - Menos de la mitad del tiempo), (3 - Mas de la mitad del tiempo), (4 - Casi todo el tiempo), (5 - Todo el tiempo).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "World Health Organization-Five Well-Being Index",
+      "name": "who5_question_3",
+      "description": "Me he sentido activo y vigoroso",
+      "radio_label": "En una escala del 0 al 5, donde: (0 - Nunca), (1 - Algunas veces), (2 - Menos de la mitad del tiempo), (3 - Mas de la mitad del tiempo), (4 - Casi todo el tiempo), (5 - Todo el tiempo).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "World Health Organization-Five Well-Being Index",
+      "name": "who5_question_4",
+      "description": "Me despierto sintiéndome fresco y relajado",
+      "radio_label": "En una escala del 0 al 5, donde: (0 - Nunca), (1 - Algunas veces), (2 - Menos de la mitad del tiempo), (3 - Mas de la mitad del tiempo), (4 - Casi todo el tiempo), (5 - Todo el tiempo).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "World Health Organization-Five Well-Being Index",
+      "name": "who5_question_5",
+      "description": "Mi vida diaria ha estado llena de cosas que me interesan",
+      "radio_label": "En una escala del 0 al 5, donde: (0 - Nunca), (1 - Algunas veces), (2 - Menos de la mitad del tiempo), (3 - Mas de la mitad del tiempo), (4 - Casi todo el tiempo), (5 - Todo el tiempo).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        },
+        {
+          "label": "4",
+          "value": 4
+        },
+        {
+          "label": "5",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_1",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? Poco placer o interés en hacer cosas",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_2",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? Se ha sentido decaído(a), deprimido(a) o sin esperanzas",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_3",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? Ha tenido dificultad para quedarse o permanecer dormido(a), o ha dormido demasiado",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_4",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? Se ha sentido cansado(a) o con poca energía",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_5",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? Sin apetito o ha comido en exceso",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_6",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? Se ha sentido mal con usted mismo(a) – o que es un fracaso o que ha quedado mal con usted mismo(a) o con su familia",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_7",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? Ha tenido dificultad para concentrarse en ciertas actividades, tales como leer el periódico o ver la televisión",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_8",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? ¿Se ha movido o hablado tan lento que otras personas podrían haberlo notado? o lo contrario – muy inquieto(a) o agitado(a) que ha estado moviéndose mucho más de lo normal",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Patient Health Questionnaire 9",
+      "name": "phq9_question_9",
+      "description": "Durante las últimas dos semanas ¿qué tan seguido ha tenidos molestias debido a los siguientes problemas? Pensamientos de que estaría mejor muerto(a) o de lastimarse de alguna manera",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Generalized Anxiety Disorder 7",
+      "name": "gad7_question_1",
+      "description": "Durante las últimas 2 semanas, ¿qué tan seguido ha tenido molestias debido a los siguientes problemas? Se ha sentido nervioso(a), ansioso(a) o con los nervios de punta",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Generalized Anxiety Disorder 7",
+      "name": "gad7_question_2",
+      "description": "Durante las últimas 2 semanas, ¿qué tan seguido ha tenido molestias debido a los siguientes problemas? No ha sido capaz de parar o controlar su preocupación",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Generalized Anxiety Disorder 7",
+      "name": "gad7_question_3",
+      "description": "Durante las últimas 2 semanas, ¿qué tan seguido ha tenido molestias debido a los siguientes problemas? Se ha preocupado demasiado por motivos diferentes",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Generalized Anxiety Disorder 7",
+      "name": "gad7_question_4",
+      "description": "Durante las últimas 2 semanas, ¿qué tan seguido ha tenido molestias debido a los siguientes problemas? Ha tenido dificultad para relajarse",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Generalized Anxiety Disorder 7",
+      "name": "gad7_question_5",
+      "description": "Durante las últimas 2 semanas, ¿qué tan seguido ha tenido molestias debido a los siguientes problemas? Se ha sentido tan inquieto(a) que no ha podido quedarse quieto(a)",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Generalized Anxiety Disorder 7",
+      "name": "gad7_question_6",
+      "description": "Durante las últimas 2 semanas, ¿qué tan seguido ha tenido molestias debido a los siguientes problemas? Se ha molestado o irritado fácilmente",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Generalized Anxiety Disorder 7",
+      "name": "gad7_question_7",
+      "description": "Durante las últimas 2 semanas, ¿qué tan seguido ha tenido molestias debido a los siguientes problemas? Ha tenido miedo de que algo terrible fuera a pasar",
+      "radio_label": "En una escala del 0 al 3, donde: (0 - Ningún dia), (1 - Varios dias), (2 - Mas de la mitad de los dias), (3 - Casi todos los dias).",
+      "options": [
+        {
+          "label": "0",
+          "value": 0
+        },
+        {
+          "label": "1",
+          "value": 1
+        },
+        {
+          "label": "2",
+          "value": 2
+        },
+        {
+          "label": "3",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_1",
+      "description": "¿Te has sentido tenso o nervioso?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_2",
+      "description": "¿Has estado preocupándote mucho?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_3",
+      "description": "¿Has estado irritable?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_4",
+      "description": "¿Has tenido dificultad para relajarte?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_5",
+      "description": "¿Has estado durmiendo mal?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_6",
+      "description": "¿Has tenido dolores de cabeza o de cuello?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_7",
+      "description": "¿Has tenido alguno de los siguientes síntomas: temblores, hormigueo, mareos, sudoración, diarrea o necesidad de orinar con más frecuencia de lo habitual?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_8",
+      "description": "¿Has estado preocupado por tu salud?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Goldberg Anxiety and Depression Scale",
+      "name": "gads_question_9",
+      "description": "¿Has tenido dificultad para conciliar el sueño?",
+      "radio_label": "Entre si o no, selecciona una respuesta.",
+      "options": [
+        {
+          "label": "Si",
+          "value": 1
+        },
+        {
+          "label": "No",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}
