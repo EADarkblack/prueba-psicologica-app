@@ -29,6 +29,10 @@ const HomeBodyComponent = () => {
   return (
     <div className="home-body-container">
       <div className="home-body-subcontainer">
+        <div className="logo-container">
+          <img width={175} src="/assets/logo-unad-1.png" alt="" />
+          <img width={400} src="/assets/sissu-logo.png" alt="" />
+        </div>
         <div className="terms-and-conditions-container">
           <Container
             className="terms-and-conditions-text-container"

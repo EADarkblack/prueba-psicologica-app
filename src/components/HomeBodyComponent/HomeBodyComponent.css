@@ -13,6 +13,16 @@
   justify-content: center;
   align-items: center;
   padding: 0 10%;
+  flex-direction: column;
+  row-gap: 2rem;
+}
+.home-body-container .home-body-subcontainer .logo-container {
+  width: 100%;
+  display: flex;
+  -moz-column-gap: 2rem;
+       column-gap: 2rem;
+  justify-content: space-between;
+  align-items: center;
 }
 .home-body-container .home-body-subcontainer .terms-and-conditions-container {
   border: 1px solid #ffffff;

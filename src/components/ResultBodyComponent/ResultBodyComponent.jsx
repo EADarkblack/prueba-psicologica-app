@@ -36,6 +36,33 @@ const ResultBodyComponent = () => {
             scrollbarWidth: "none",
           }}
         >
+          <Box>
+            <Typography variant="h5" sx={{ marginBottom: 2 }}>
+              Encuesta de Satisfacción para comunidades 2025 (16.01)
+            </Typography>
+            <Box
+              sx={{
+                marginBottom: 2,
+                border: "1px solid gray",
+                padding: "1rem",
+                borderRadius: "1rem",
+                display: "flex",
+                flexDirection: "column",
+                rowGap: "0.5rem",
+              }}
+            >
+              <Typography>
+                Le invitamos a completar la siguiente encuesta de satisfacción
+                relacionada con el presente proyecto:
+              </Typography>
+              <Typography sx={{ ml: 2, fontSize: "0.9rem" }}>
+                Encuesta:{" "}
+                <a href="https://forms.office.com/r/AgfWCtVNnK" target="_blank">
+                  Encuesta de Satisfacción para comunidades 2025 (16.01)
+                </a>
+              </Typography>
+            </Box>
+          </Box>
           {!source && (
             <Box>
               <Typography variant="h5" sx={{ marginBottom: 2 }}>

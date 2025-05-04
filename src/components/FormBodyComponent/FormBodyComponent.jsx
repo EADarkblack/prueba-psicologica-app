@@ -110,6 +110,9 @@ const FormBodyComponent = () => {
   return (
     <div className="home-body-container">
       <div className="home-body-subcontainer">
+        <div className="logo-container">
+          <img width={400} src="/assets/logo-unad-2.png" alt="" />
+        </div>
         <form
           onSubmit={handleSubmit}
           className="terms-and-conditions-container"

@@ -225,6 +225,10 @@ const TestBodyComponent = () => {
   return (
     <div className="home-body-container">
       <div className="home-body-subcontainer">
+        <div className="logo-container">
+          <img width={125} src="/assets/logo-unad-1.png" alt="" />
+          <img width={300} src="/assets/sissu-logo.png" alt="" />
+        </div>
         <div className="terms-and-conditions-container">
           <Box sx={{ maxWidth: 400, flexGrow: 1 }}>
             <Paper
